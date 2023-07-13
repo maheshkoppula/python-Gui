@@ -1,2 +1,2 @@
 # python-Gui
-graphical codes by python
+graphical codes by python gui
